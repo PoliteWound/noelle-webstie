@@ -20,6 +20,20 @@ div.scrollmenu a {
     color: black;
 }
 
-div.scrollmenu a;:hover {
+div.scrollmenu a:hover {
     color: gray;
+}
+div.scrollmenu a:active {
+    color: darkcyan;
+}
+img {
+    float: left;
+    box-sizing: border-box;
+    padding-left: 100px;
+    width: 500px;
+    margin-right: 100px;
+}
+.bio {
+    float: right;
+    box-sizing: border-box;
 }
