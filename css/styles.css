@@ -26,14 +26,15 @@ div.scrollmenu a:hover {
 div.scrollmenu a:active {
     color: darkcyan;
 }
-img {
-    float: left;
+.headshot {
+    display: inline-block;
     box-sizing: border-box;
     padding-left: 100px;
     width: 500px;
     margin-right: 100px;
 }
 .bio {
-    float: right;
+    display: inline-block;
     box-sizing: border-box;
+    text-align: start;
 }
